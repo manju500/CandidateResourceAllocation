@@ -2,7 +2,9 @@
 
 Candidate Resource Allocation is a project to filter out candidates for the particular project. It uses React as frontend, Spring as backend and MySQL as database
 
+<h2>
 Steps to run the project:
+</h2>
 
 1. Download the project CandidateResourceAllocation as zip file
 
@@ -10,9 +12,9 @@ Steps to run the project:
 
 2. Extract the Zip file
 
-<h2>
+<h3>
   Running the spring project
-</h2>
+</h3>
 
 4. In Spring Tool Suit, open the folder 'resourcehandling' that is present inside backend folder of the extracted folder
 
@@ -20,9 +22,9 @@ Steps to run the project:
 
 6. Run the spring project as Spring Boot App
 
-<h2>
+<h3>
   Running the React Project
-</h2>
+</h3>
 
 7.  In Visual Studio Code, open the folder 'resourcemanagement' that is present inside frontend folder of the extracted folder
 
@@ -31,9 +33,9 @@ Steps to run the project:
 9.  to start running the react project, enter the commans in the terminal of Visual Studio Code:  npm start
 
 
-<h2>
+<h3>
 Note:
-</h2>
+</h3>
 Applications required are: 
 1. Spring Tool Suit
 2. Visual Studio
