@@ -38,3 +38,5 @@ Steps to run the project:
 Note:
 </h3>
 Applications required are:  Spring Tool Suit, Visual Studio, npm, MySQL
+
+
