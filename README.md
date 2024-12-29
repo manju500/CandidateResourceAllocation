@@ -8,9 +8,10 @@ Steps to run the project:
 
 1. Download the project CandidateResourceAllocation as zip file
 
-![image](https://github.com/user-attachments/assets/1a07dd61-e0d4-4b76-bcc7-d52b375eda1b)
+![t2os5lqz](https://github.com/user-attachments/assets/05877c51-092c-49d4-a1b4-e86568fb98bb)
 
-2. Extract the Zip file
+
+3. Extract the Zip file
 
 <h3>
   Running the spring project
